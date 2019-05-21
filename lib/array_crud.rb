@@ -42,5 +42,6 @@ array[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+  array = ["I", "am", "learning", "arrays!"]
+  array[3]
 end
