@@ -36,7 +36,7 @@ index_number = "am"
 end
 
 def retrieve_first_element_from_array(array)
-array = ["Hi", "i'm", "George"]
+array = ["wow", "i'm", "George"]
 array[0]
 
 end
