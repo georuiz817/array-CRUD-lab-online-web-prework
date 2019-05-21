@@ -30,8 +30,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-array = ["wow", "I", "am", "coding"]
-array[2]
+array = ["wow", "I", "#{index_number}", "coding"]
+index_number = "am"
 
 end
 
